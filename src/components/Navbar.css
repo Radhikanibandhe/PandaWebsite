@@ -1,5 +1,5 @@
 .navbar {
-    background: #4AA96C;
+    background: #171717;
     height: 80px;
     display: flex;
     justify-content: center;
@@ -109,7 +109,7 @@
   
     .nav-links:hover {
       background-color: #fff;
-      color: #4AA96C;
+      color: #171717;
       border-radius: 0;
     }
   
